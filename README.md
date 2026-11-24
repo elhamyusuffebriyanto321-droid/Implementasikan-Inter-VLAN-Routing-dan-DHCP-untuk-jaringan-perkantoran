@@ -20,8 +20,7 @@ The project includes:
 2. Open Router and verify:
 - show ip ----
 # 📄 Configuration Notes
-> [!NOTE]
-> Router
+| Router | DHCP with ip dhcp-pool VLAN10 - VLAN40
 
 
 
