@@ -20,7 +20,9 @@ The project includes:
 2. Open Router and verify:
 - show ip ----
 # 📄 Configuration Notes
-| Router | DHCP with ip dhcp-pool VLAN10 - VLAN40
+| |
+| :--- |
+| Tulisan panjang atau penjelasan Anda di dalam kotak. |
 
 
 
