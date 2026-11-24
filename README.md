@@ -20,7 +20,8 @@ The project includes:
 2. Open Router and verify:
 - show ip ----
 # 📄 Configuration Notes
-| |
+| ROUTER and SWTCH|
 | :--- |
-| -> DHCP ip dhcp pool VLAN10-VLAN40|
-| -> VLAN encapsulation dot1Q 10-40 |
+| -> configure DHCP on the router |
+| -> configure VLANs on the switch |
+| -> Configure a trunk on every switch that is connected to another switch or a router |
