@@ -22,7 +22,7 @@ The project includes:
 # 📄 Configuration Notes
 | Router |
 | :--- |
-| Tulisan panjang atau penjelasan Anda di dalam kotak. |
+| - DHCP ip dhcp pool VLAN10-VLAN40|
 
 
 
