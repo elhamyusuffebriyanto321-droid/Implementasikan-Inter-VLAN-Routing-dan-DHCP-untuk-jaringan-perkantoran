@@ -22,8 +22,5 @@ The project includes:
 # 📄 Configuration Notes
 | Router |
 | :--- |
-| - DHCP ip dhcp pool VLAN10-VLAN40|
-
-
-
-
+| -> DHCP ip dhcp pool VLAN10-VLAN40|
+| -> VLAN encapsulation dot1Q 10-40 |
