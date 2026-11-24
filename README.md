@@ -20,6 +20,7 @@ The project includes:
 2. Open Router and verify:
 - show ip ----
 # 📄 Configuration Notes
+|
 | :--- |
 | -> DHCP ip dhcp pool VLAN10-VLAN40|
 | -> VLAN encapsulation dot1Q 10-40 |
