@@ -8,7 +8,6 @@ The project includes:
 # 🖥️ Topology
 <img width="464" height="408" alt="Screenshot 2026-11-21 070355" src="https://github.com/user-attachments/assets/65122e5b-53ee-4f65-8657-6b7adb8bd1d3" />
 
-# 📁 Project Structure
 # 🛠️ Technologies Used
 - Cisco Packet Tracer
 - VLAN (VLAN10, VLAN20, VLAN30, VLAN40)
@@ -18,7 +17,7 @@ The project includes:
 - IP is assigned via DHCP
 - You can ping the PC according to its VLAN.
 2. Open Router and verify:
-- show ip ----
+- show ip route
 # 📄 Configuration Notes
 | ROUTER and SWTCH|
 | :--- |
