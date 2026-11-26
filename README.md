@@ -8,10 +8,6 @@ Proyek ini mencakup:
 # 🖥️ Topologi
 <img width="464" height="408" alt="Screenshot 2026-11-21 070355" src="https://github.com/user-attachments/assets/65122e5b-53ee-4f65-8657-6b7adb8bd1d3" />
 
-# 🛠️ Teknologi yang Digunakan
-- Cisco Packet Tracer
-- VLAN (VLAN10, VLAN20, VLAN30, VLAN40)
-- Konfigurasi DHCP pada Router
 # 🧪 Cara Pengujian
 1. Buka PC mana pun dan pastikan:
 - IP telah diberikan melalui DHCP
