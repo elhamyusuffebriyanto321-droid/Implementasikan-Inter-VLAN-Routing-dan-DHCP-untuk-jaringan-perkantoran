@@ -1,26 +1,26 @@
 # 🚀 Implementasikan-Inter-VLAN-Routing-dan-DHCP-untuk-jaringan-perkantoran (Cisco Packet Tracer)
-# 🧠 Overview
-This lab demonstrates Inter-VLAN, DHCP, using Cisco Packet Tracer.
-The project includes:
-- 🔁 VLANs are created on switch 2 and switch 2.
-- 🌐 DHCP Server enabled on Router
-- 💻 PC-to-PC communication via the same VLAN
-# 🖥️ Topology
+# 🧠 Gambaran Umum
+Lab ini mendemonstrasikan Inter-VLAN dan DHCP dengan menggunakan Cisco Packet Tracer.
+Proyek ini mencakup:
+- 🔁 Pembuatan VLAN pada switch.
+- 🌐 Pengaktifan DHCP Server pada router.
+- 💻 Komunikasi antar-PC dalam VLAN yang sama.
+# 🖥️ Topologi
 <img width="464" height="408" alt="Screenshot 2026-11-21 070355" src="https://github.com/user-attachments/assets/65122e5b-53ee-4f65-8657-6b7adb8bd1d3" />
 
-# 🛠️ Technologies Used
+# 🛠️ Teknologi yang Digunakan
 - Cisco Packet Tracer
 - VLAN (VLAN10, VLAN20, VLAN30, VLAN40)
-- DHCP configuration on Router
-# 🧪 How to Test
-1. Open any PC and verify:
-- IP is assigned via DHCP
-- You can ping the PC according to its VLAN.
-2. Open Router and verify:
-- show ip route
-# 📄 Configuration Notes
-| ROUTER and SWTCH|
+- Konfigurasi DHCP pada Router
+# 🧪 Cara Pengujian
+1. Buka PC mana pun dan pastikan:
+- IP telah diberikan melalui DHCP
+- Anda dapat melakukan ping ke PC lain sesuai dengan VLAN-nya.
+2. Buka Router dan periksa:
+- `show ip route`
+# 📄 Catatan Konfigurasi
+| ROUTER dan SWITCH |
 | :--- |
-| -> configure DHCP on the router |
-| -> configure VLANs on the switch |
-| -> Configure a trunk on every switch that is connected to another switch or a router |
+| -> Konfigurasikan DHCP pada router |
+| -> Konfigurasikan VLAN pada switch |
+| -> Konfigurasikan trunk pada setiap switch yang terhubung ke switch lain atau ke router |
